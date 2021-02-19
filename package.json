@@ -10,7 +10,7 @@
     ]
   },
   "scripts": {
-    "build": "webpack",
+    "build": "webpack ",
     "start": "yarn build && webpack-dev-server",
     "start-dev": "webpack-dev-server --progress --colors"
   },
